@@ -1,4 +1,3 @@
-# 테스트
 # 정답 풀이
 from collections import deque
 
